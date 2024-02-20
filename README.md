@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am a student at the University of Utah and I am interested in coding for science and materials informatics and other applications of AI to science
+
+- 🔭 I’m currently working with 3D printing Titanium
+- 🌱 I’m currently learning how to better use AI in python code
+
+
 
 <!--
 **MoleCoal45/MoleCoal45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
